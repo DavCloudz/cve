@@ -1,5 +1,11 @@
 **Hardcoded TR-069 (easycwmp) Remote Management Credentials**
 
+> **Severity**: 🔴 CRITICAL  
+> **Firmware**: `X-PRO(AC6)_Dual_V1.0.22-20231206-upgrade.bin`  -https://b-link.net.cn/product_29_176.html.html  
+> **Device**: B-Link AC1200 (MediaTek MT7621)  
+> **Base System**: LEDE 17.01-SNAPSHOT (Linux 4.4.198, mipsel_24kc)  
+> **Discovered**: 2026-06-26  
+> **Reporter**：@DavCloudz (Yun Zhang)
 ---
 
 ### Summary
